@@ -7,13 +7,6 @@ The Task Forms are defined within this application and not on the Server-Side to
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 Please see the [React Scripts Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) to see what you can do with this project from the React perspective.
 
-## Example
-Within this project you can find some example task forms that were defined for an example process.
-The example process can be found in the folder `examples/myprocess`.
-The forms can be found in `src/components/forms/myprocess`.
-
-![Example Screencast ](screencast.gif)
-
 ## How to use
 This project can be seen as an example implementation or as a starting point for your custom Tasklist.
 As it uses standard react mechanisms it should be very easy for a React developer to adapt and change or reuse the code.
